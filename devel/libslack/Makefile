@@ -6,7 +6,7 @@ CATEGORIES=
 MASTER_SITES=	http://www.libslack.org/download/
 
 MAINTAINER=	freebsd@mgwsoftware.com
-COMMENT=	Generic utility library for UNIX/C to make code easier on the eye
+COMMENT=	A UNIX/C library of general utilities for programmers with Slack
 
 USES=	gmake
 
